@@ -68,7 +68,7 @@ Final Result
      - `image/jpeg`, `image/jpg`, `image/png`
 
 5. **File Size Validation**
-   - Accepts files between **10KB and 10MB**
+   - Accepts files between **2KB and 10MB**
    - Rejects files outside this range
 
 **Output**: 
