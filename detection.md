@@ -393,7 +393,7 @@ Both detection services share:
 | **Filename Patterns** | `resume`, `cv`, `curriculum` | `jd`, `job-description`, `hiring` |
 | **Subject Patterns** | `applying for`, `job application` | `job description`, `we are hiring` |
 | **Sender Scoring** | Personal emails score higher | Corporate emails score higher |
-| **File Size Min** | 10KB | 1KB |
+| **File Size Min** | 2KB | 1KB |
 | **AI Classifier** | Resume-specific prompts | JD-specific prompts |
 
 ### Performance Optimization
